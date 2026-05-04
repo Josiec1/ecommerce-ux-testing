@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # E-commerce UX Automated Testing Framework
 
 A data-driven end-to-end UX testing framework built with **Python + Playwright + Pytest**, targeting a merchant-facing e-commerce platform. Covers 50 test cases across 5 core merchant user flows.
@@ -49,6 +48,7 @@ pytest -v
 ```
 
 ## Sample Results
+
 ```
 50 passed in 51.02s
 ```
